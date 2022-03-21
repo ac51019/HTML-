@@ -1,0 +1,28 @@
+formatting tags
+
+1.bold
+
+<b></b>
+<strong></strong>
+
+
+2.italic
+
+<i></i>
+<em></em>
+
+3.superscript
+
+<sup></sup>
+
+4.subscript
+5.strike
+
+
+image
+
+<img src="foldername/filename.extension">
+
+
+<img src="images/abc.jpg">
+

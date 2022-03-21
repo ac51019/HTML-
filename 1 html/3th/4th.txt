@@ -1,0 +1,67 @@
+table
+
+tr---- table row
+td---- table data column data
+th---- table heading or column heading
+
+
+cellspacing:space between columns
+cellpadding: space inside columns
+
+
+rowspan: to merge rows
+colspan: to merge columns
+
+
+
+form
+
+1. label
+2. text input
+3. email input
+4. date input
+5. select
+6. textarea
+7. radio button
+8. checkbox
+9. submit
+10. reset
+11. file input
+
+https://www.w3schools.com/html/html_forms.asp
+
+
+
+css intro
+
+cascading stylesheet
+
+css types
+
+1. inline 
+2. internal
+3. external
+
+property-name:value
+
+color:red;
+
+
+css selectors
+
+1. element selector
+
+
+p
+{
+   
+}
+
+
+li 
+{
+
+}
+
+
+

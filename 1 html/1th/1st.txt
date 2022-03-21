@@ -1,0 +1,72 @@
+html : hypertext markup language
+
+current version of html : HTML5
+
+2012 or 2014
+
+HTML5 Features
+
+1. geolocation + google map service/api
+2. local storage
+3. drag & drop
+4. canvas & svg
+5. new form inputs & validation
+6. semantic tags
+
+<div>
+</div>
+
+header
+footer
+section
+aside
+nav
+
+<header>
+<div>
+</div>
+</header>
+
+
+text editor
+
+sublime
+visual studio
+notepad++
+brackets
+
+https://notepad-plus-plus.org/downloads/
+
+
+<p> --- starting tag
+
+</p> --- closing
+
+
+heading tags
+
+6 types of headings
+
+<h1>
+<h2>
+<h3>
+<h6>
+
+lists in html
+
+ordered list
+unordered list
+definition list
+
+google map
+https://www.webdevelopmentinstitute.com/blog/how-to-use-google-map-in-website
+
+youtube video
+https://www.webdevelopmentinstitute.com/blog/how-to-use-youtube-video-in-website
+
+https://www.webdevelopmentinstitute.com/category/html-blogs
+
+
+
+
+

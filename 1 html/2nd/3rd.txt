@@ -1,0 +1,18 @@
+links
+
+<a href="first.html">First</a>
+
+text link
+image link
+phone link
+email link
+
+
+types of links
+
+internal link
+external link
+
+to open page on new tab
+
+target="_blank"
